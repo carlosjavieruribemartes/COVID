@@ -1,3 +1,6 @@
+--ESTE ES UN COMENTARIO
+
+
 --Select Data we are going to be using
 SELECT Location, date, total_cases, new_cases, total_deaths, population
 FROM coviddeaths
